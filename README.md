@@ -1,1 +1,1 @@
-# js-course-materials
+# JavaScriptCourse
